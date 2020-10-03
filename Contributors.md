@@ -1,3 +1,8 @@
+
+Name: [Si Lam](https://github.com/silam)<br/>
+Place: USA<br/>
+About: Full Stack .NET core, docker , container, AWS Cloud certified<br/>
+<br/>
 Name: [Amrita Singha Roy](https://github.com/uzumakinaruto96)<br/>
 Place: India<br/>
 About: SDET in Infosys and I love learning new things<br/>
